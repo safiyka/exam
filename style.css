@@ -1,0 +1,26 @@
+.green {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.grey2 {
+    border: 1px solid gray;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.black {
+    background-color: black; color: white; text-align: center;
+}
+
+iframe {
+    width: 100%;
+}
